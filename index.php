@@ -1,7 +1,6 @@
 <?php
 
 
-        echo "ola mundo";
-echo "Edson gostoso";
-
+        echo "ola mundo e ola edson";
+  
         ?>
